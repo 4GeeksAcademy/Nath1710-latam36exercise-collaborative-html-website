@@ -1,12 +1,18 @@
-body{
-    background: #BDBDBD;
+body {
+    background: rgba(255, 254, 254, 255);
 }
 
-.myimage{
+.myimage {
     width: 50%;
     border-radius: 50%;
 }
 
-.firstheading{
-    
+.firstheading {}
+
+#texts {
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 }
