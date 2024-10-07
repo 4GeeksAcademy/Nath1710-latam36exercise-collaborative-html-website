@@ -1,18 +1,33 @@
-body {
-    background: rgba(255, 254, 254, 255);
+body{
+    background: #fdfcfc;
 }
 
-.myimage {
+.myimage{
     width: 50%;
-    border-radius: 50%;
+    
 }
 
-.firstheading {}
-
-#texts {
-    height: 600px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-
+.myimage2{
+    width: 50%;
+    
 }
+
+.mytext{
+
+white-space: nowrap;
+}
+
+
+.textcontainer2{
+    margin-left: -330PX;
+}
+
+.textcontainer1{
+    margin-left: 150PX;
+}
+
+.fheadinghr{
+    margin-top: 50px;
+    margin-bottom: 50px; 
+    
+ }
